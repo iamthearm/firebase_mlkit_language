@@ -19,6 +19,6 @@ Firebase ML Kit Language Plugin for Flutter.
   s.dependency 'Firebase/MLNLTranslate'
   s.dependency 'Firebase/MLNLLanguageID'
   s.dependency 'Firebase/MLNaturalLanguage'
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '12.0'
   s.static_framework = true
 end
