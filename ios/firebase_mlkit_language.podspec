@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'firebase_mlkit_language'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Firebase ML Kit Language Plugin for Flutter'
   s.description      = <<-DESC
 Firebase ML Kit Language Plugin for Flutter.
